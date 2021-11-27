@@ -1,7 +1,9 @@
-# Median-Filter-denoising
+# Implementation of nighttime low illumination image enhancement using Dark/Bright channel priors
 
-An Implementation of Median Filter to denoise Gaussian noisy image.
+(to be updated)
 
-![picture](result_1000p.png)
 
-Tran Le Anh, April 22, 2019.
+
+LA Tran
+
+Nov. 2021.
