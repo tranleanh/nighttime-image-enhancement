@@ -11,7 +11,7 @@
 - Matplotlib
 
 ## 1. Usage
-1. Set name or path of image in [bcp-dcp.py](https://github.com/tranleanh/nighttime-image-enhancement/edit/master/bcp-dcp.py#L138)
+1. Set name or path of image in [bcp-dcp.py](https://github.com/tranleanh/nighttime-image-enhancement/blob/7dbd3a5c40d2fa259b22ab51b94ecc42c7eb11a6/bcp-dcp.py#L138)
 2. Simply run:
 ```bashrc
 $ python bcp-dcp.py
