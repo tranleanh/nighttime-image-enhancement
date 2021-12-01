@@ -1,8 +1,4 @@
-import os
 import cv2
-import glob
-import shutil
-import random
 import numpy as np
 import matplotlib.pyplot as plt
 
